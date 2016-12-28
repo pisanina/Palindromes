@@ -1,0 +1,15 @@
+c:\users\nanom\documents\visual studio 2013\Projects\Palindromy\Palindromy\bin\Debug\Palindromy.exe.config
+c:\users\nanom\documents\visual studio 2013\Projects\Palindromy\Palindromy\bin\Debug\Palindromy.exe
+c:\users\nanom\documents\visual studio 2013\Projects\Palindromy\Palindromy\bin\Debug\Palindromy.pdb
+c:\users\nanom\documents\visual studio 2013\Projects\Palindromy\Palindromy\obj\Debug\Palindromy.csprojResolveAssemblyReference.cache
+c:\users\nanom\documents\visual studio 2013\Projects\Palindromy\Palindromy\obj\Debug\Palindromy.exe
+c:\users\nanom\documents\visual studio 2013\Projects\Palindromy\Palindromy\obj\Debug\Palindromy.pdb
+C:\Users\nanom\documents\visual studio 2013\Projects\Palindromy\Palindromy\bin\Debug\nunit.framework.dll
+C:\Users\nanom\documents\visual studio 2013\Projects\Palindromy\Palindromy\bin\Debug\nunit.framework.xml
+C:\Praca\Projekty\Palindromy\bin\Debug\Palindromy.exe.config
+C:\Praca\Projekty\Palindromy\bin\Debug\Palindromy.exe
+C:\Praca\Projekty\Palindromy\bin\Debug\Palindromy.pdb
+C:\Praca\Projekty\Palindromy\bin\Debug\nunit.framework.xml
+C:\Praca\Projekty\Palindromy\obj\Debug\Palindromy.csprojResolveAssemblyReference.cache
+C:\Praca\Projekty\Palindromy\obj\Debug\Palindromy.exe
+C:\Praca\Projekty\Palindromy\obj\Debug\Palindromy.pdb
